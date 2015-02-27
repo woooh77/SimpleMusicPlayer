@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="C:\Users\Viki\workspace\SimpleMusicPlayer\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\Viki\workspace\SimpleMusicPlayer\res" >
+            <file
+                name="end"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-hdpi\end.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="play"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-hdpi\play.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="rand"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-hdpi\rand.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="end"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-ldpi\end.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="play"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-ldpi\play.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="rand"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-ldpi\rand.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="end"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-mdpi\end.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="play"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-mdpi\play.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="rand"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-mdpi\rand.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="end"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-xhdpi\end.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="play"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-xhdpi\play.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="rand"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-xhdpi\rand.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="end"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-xxhdpi\end.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="play"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-xxhdpi\play.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="rand"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-xxhdpi\rand.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="song"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\layout\song.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\values\strings.xml"
+                qualifiers="" >
+                <string name="hello_world" >Hello world!
+                </string>
+
+                <string-array name="items" >
+                    <item>
+Music
+                    </item>
+                    <item>
+Photos
+                    </item>
+                    <item>
+Videos
+                    </item>
+                </string-array>
+
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >SimpleMusicPlayer
+                </string>
+
+                <string-array name="soon" >
+                    <item>
+Coming soon!
+                    </item>
+                </string-array>
+            </file>
+            <file
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+
+                <style
+                    name="MyActionBar"
+                    parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse" >
+                    <item name="android:background">
+#3498db
+                    </item>
+                </style>
+
+                <style
+                    name="CustomActionBarTheme"
+                    parent="@android:style/Theme.Holo.Light.DarkActionBar" >
+                    <item name="android:actionBarStyle">
+@style/MyActionBar
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                name="ic_drawer"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-ldpi\ic_drawer.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-ldpi\ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-hdpi\ic_drawer.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-xxhdpi\ic_drawer.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-mdpi\ic_drawer.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\drawable-xhdpi\ic_drawer.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_list_item"
+                path="C:\Users\Viki\workspace\SimpleMusicPlayer\res\layout\drawer_list_item.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="C:\Users\Viki\workspace\SimpleMusicPlayer\build\generated\res\rs\debug" />
+        <source path="C:\Users\Viki\workspace\SimpleMusicPlayer\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Viki\workspace\SimpleMusicPlayer\build-types\debug\res" />
+    </dataSet>
+
+</merger>

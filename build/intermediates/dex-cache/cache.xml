@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Viki\workspace\SimpleMusicPlayer\build\intermediates\pre-dexed\debug\android-support-v4-c4dfa2add27b33b95a79eed980a9d2c931927b34.jar"
+        jar="C:\Users\Viki\workspace\SimpleMusicPlayer\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd"/>
+    <item
+        dex="C:\Users\Viki\workspace\SimpleMusicPlayer\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-6054015f428bd528cfc4782ed260215f316178d4.jar"
+        jar="C:\Users\Viki\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Viki\workspace\SimpleMusicPlayer\build\intermediates\pre-dexed\debug\classes-a47d2654438abd36f22aaf5865b95dbae92b8f1a.jar"
+        jar="C:\Users\Viki\workspace\SimpleMusicPlayer\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Viki\workspace\SimpleMusicPlayer\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-4ded10afc68441807e11f2e065d2e187c0f40cd1.jar"
+        jar="C:\Users\Viki\workspace\SimpleMusicPlayer\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>
